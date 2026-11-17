@@ -1,0 +1,12 @@
+{
+  "user": "sa",
+  "password": "mat_khau_cua_ban",
+  "server": "localhost",
+  "database": "PagodaDB",
+  "port": 1433,
+  "options": {
+    "encrypt": false,
+    "trustServerCertificate": true
+  }
+}
+
